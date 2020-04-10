@@ -51,13 +51,14 @@
   - DockerFile
 - 컨테이너라이징
   - 쿠버네티스 아키텍처의 이해
+  - 실습
 - 배포파이프라인구축
   - 애저
   - AWS
 
 ## 교육교재
   - MSA개념 및 주요패턴
-    https://engineering-skcc.github.io/tags/microservice/
+    - https://engineering-skcc.github.io/tags/microservice/
   - 마이크로서비스 모델링
    
 
