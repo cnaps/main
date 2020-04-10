@@ -7,6 +7,7 @@
 
 
 
+
 # 네이티브 공정도
 
 ![공정도](https://github.com/cnaps/main/blob/master/img/%EA%B3%B5%EC%A0%95%EB%8F%84.png)  
@@ -27,7 +28,7 @@
     - DDD 전략적설계 개념
     - 이벤트스토밍가이드
     
-- 마이크로서비스 별 
+- 마이크로서비스설계 
   - API설계서
     - API 설계 개념  
   - 도메인모델
