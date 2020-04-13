@@ -61,8 +61,9 @@
   - AWS
 
 ## 교육교재
-  - MSA개념 및 주요패턴
-    - https://engineering-skcc.github.io/tags/microservice/
+  - MSA개념 및 주요패턴  https://engineering-skcc.github.io/tags/microservice/
+    - [마이크로서비스 개념](https://engineering-skcc.github.io/categories/#microservice-%EA%B0%9C%EB%85%90)
+    
   - 마이크로서비스 모델링
    
 
