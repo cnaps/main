@@ -60,12 +60,19 @@
   - 애저
   - AWS
 
-## 교육교재
+## 컨텐츠 및 교육교재
   - [MSA개념 및 주요패턴](https://engineering-skcc.github.io/tags/microservice/)
     - [마이크로서비스 개념](https://engineering-skcc.github.io/categories/#microservice-%EA%B0%9C%EB%85%90)
     - [마이크로서비스 Outer 아키텍처](https://engineering-skcc.github.io/categories/#microservice-outer-achitecture)
     - [마이크로서비스 Inner 아키텍처](https://engineering-skcc.github.io/categories/#microservice-inner-achitecture)
+    - 교육교재 
   - 마이크로서비스 모델링
+    - 도메인주도설계
+      - 전략적설계
+      - 전술적설계
+    - API설계
+    - 이벤트스토밍
+    - 교육교재
    
 
 
