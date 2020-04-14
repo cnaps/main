@@ -13,9 +13,26 @@
 ![공정도](https://github.com/cnaps/main/blob/master/img/%EA%B3%B5%EC%A0%95%EB%8F%84.png)  
 
 # 프렉티스 별 주요활동 & 산출물 
-|Practice | Step | Output |
-|------|---|---|
-||||
+|Phase|Practice | Step | Output |
+|------|------|---|---|
+|Sprint0|외부아키텍처정의|||
+|Sprint0|내부아키텍처정의|||
+|Sprint0|구현환경정의|||
+|Sprint0|마이크로서비스도출|||
+|Sprint0|서비스스펙(SPEC)정의|||
+|Sprint0|테스트계획수립|||
+|Sprint0|데이터이행계획수립|||
+|SprintN#|마이크로서비스모델링|||
+|SprintN#|UI설계|||
+|SprintN#|프론트엔드구현|||
+|SprintN#|지속적통합|||
+|SprintN#|지속적배포|||
+|SprintN#|데이터이행리허설|||
+|Test&Release|통합테스트|||
+|Test&Release|성능테스트|||
+|Test&Release|데이터이행|||
+|Test&Release|릴리즈|||
+
 
 # 주요 ASSET
 ## 0.아키텍처 
