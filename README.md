@@ -12,6 +12,9 @@
 
 ![공정도](https://github.com/cnaps/main/blob/master/img/%EA%B3%B5%EC%A0%95%EB%8F%84.png)  
 
+# 프렉티스 별 주요활동 & 산출물 
+|Practice | Step | Output |
+||||
 
 # 주요 ASSET
 ## 0.아키텍처 
